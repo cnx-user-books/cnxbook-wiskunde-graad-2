@@ -1,3 +1,83 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11127</md:content-id>  <md:title>Wiskunde Graad 2</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>480cb555-2964-4c56-9997-7f71c8353ca9</md:uuid>
-<md:slug>wiskunde-graad-2</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m22666"/>                            <col:module document="m22668"/>                            <col:module document="m22669"/>                            <col:module document="m22670"/>                            <col:module document="m22672"/>                            <col:module document="m22689"/>                            <col:module document="m22675"/>                            <col:module document="m22680"/>                            <col:module document="m22676"/>                            <col:module document="m32345"/>                            <col:module document="m32346"/>                            <col:module document="m32350"/>                            <col:module document="m32348"/>                            <col:module document="m32349"/>                            <col:module document="m32351"/>                                          <col:subcollection>        <md:title>(Untitled)</md:title>                                <col:content>                  </col:content>      </col:subcollection>            </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m32352"/>                            <col:module document="m32353"/>                            <col:module document="m32354"/>                            <col:module document="m32393"/>                            <col:module document="m32367"/>                            <col:module document="m32368"/>                            <col:module document="m32369"/>                            <col:module document="m32370"/>                            <col:module document="m32371"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m32373"/>                            <col:module document="m32374"/>                            <col:module document="m32379"/>                            <col:module document="m32380"/>                            <col:module document="m32381"/>                            <col:module document="m32382"/>                            <col:module document="m32383"/>                            <col:module document="m32384"/>                            <col:module document="m32385"/>                            <col:module document="m32386"/>                            <col:module document="m32387"/>                            <col:module document="m32388"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m32389"/>                            <col:module document="m32394"/>                            <col:module document="m32390"/>                            <col:module document="m32391"/>                            <col:module document="m32440"/>                            <col:module document="m32395"/>                            <col:module document="m32432"/>                            <col:module document="m32436"/>                            <col:module document="m32437"/>                            <col:module document="m32439"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11127</md:content-id>
+    <md:title>Wiskunde Graad 2</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>480cb555-2964-4c56-9997-7f71c8353ca9</md:uuid>
+    <md:slug>wiskunde-graad-2</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m22666"/>
+        <col:module document="m22668"/>
+        <col:module document="m22669"/>
+        <col:module document="m22670"/>
+        <col:module document="m22672"/>
+        <col:module document="m22689"/>
+        <col:module document="m22675"/>
+        <col:module document="m22680"/>
+        <col:module document="m22676"/>
+        <col:module document="m32345"/>
+        <col:module document="m32346"/>
+        <col:module document="m32350"/>
+        <col:module document="m32348"/>
+        <col:module document="m32349"/>
+        <col:module document="m32351"/>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m32352"/>
+        <col:module document="m32353"/>
+        <col:module document="m32354"/>
+        <col:module document="m32393"/>
+        <col:module document="m32367"/>
+        <col:module document="m32368"/>
+        <col:module document="m32369"/>
+        <col:module document="m32370"/>
+        <col:module document="m32371"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m32373"/>
+        <col:module document="m32374"/>
+        <col:module document="m32379"/>
+        <col:module document="m32380"/>
+        <col:module document="m32381"/>
+        <col:module document="m32382"/>
+        <col:module document="m32383"/>
+        <col:module document="m32384"/>
+        <col:module document="m32385"/>
+        <col:module document="m32386"/>
+        <col:module document="m32387"/>
+        <col:module document="m32388"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m32389"/>
+        <col:module document="m32394"/>
+        <col:module document="m32390"/>
+        <col:module document="m32391"/>
+        <col:module document="m32440"/>
+        <col:module document="m32395"/>
+        <col:module document="m32432"/>
+        <col:module document="m32436"/>
+        <col:module document="m32437"/>
+        <col:module document="m32439"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
